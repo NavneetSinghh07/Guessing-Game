@@ -1,3 +1,4 @@
+
 import random
 d= (random.randint(0,100))
 a=int(input("Enter the Number :- "))
